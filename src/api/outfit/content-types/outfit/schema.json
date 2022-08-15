@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "outfits",
+  "info": {
+    "singularName": "outfit",
+    "pluralName": "outfits",
+    "displayName": "Outfit"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Brand": {
+      "type": "string"
+    }
+  }
+}
