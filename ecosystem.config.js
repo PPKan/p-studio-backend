@@ -8,6 +8,7 @@ module.exports = {
     production: {
       user: "ubuntu",
       host: "ec2-18-182-56-247.ap-northeast-1.compute.amazonaws.com",
+      key: "~/.ssh/0813-p-studio.pem",
       ref: "origin/main",
       repo: "git@github.com:PPKan/p-studio-backend.git",
       path: "/home/ubuntu/backend",
