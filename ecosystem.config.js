@@ -13,7 +13,7 @@ module.exports = {
       repo: "git@github.com:PPKan/p-studio-backend.git",
       path: "/home/ubuntu/backend",
       "post-deploy":
-        "npm install && NODE_ENV=production npm run build && pm2 reload ~/ecosystem.config.js",
+        "nvm use 16.14.2 && npm install && NODE_ENV=production npm run build && pm2 reload ~/ecosystem.config.js",
     },
   },
 };
