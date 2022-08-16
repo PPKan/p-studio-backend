@@ -1,7 +1,9 @@
 module.exports = {
   apps: [
     {
-      name: "strapi"
+      name: "strapi",
+      script: "npm",
+      args: "start"
     },
   ],
   deploy: {
