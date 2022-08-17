@@ -7,14 +7,15 @@
     "develop": "strapi develop",
     "start": "strapi start",
     "build": "strapi build",
-    "strapi": "strapi"
+    "strapi": "strapi",
+    "version": "strapi --version"
   },
-  "devDependencies": {},
   "dependencies": {
-    "@strapi/strapi": "4.3.4",
-    "@strapi/plugin-users-permissions": "4.3.4",
     "@strapi/plugin-i18n": "4.3.4",
-    "pg": "8.6.0"
+    "@strapi/plugin-users-permissions": "4.3.4",
+    "@strapi/strapi": "4.3.4",
+    "pg": "8.6.0",
+    "strapi-plugin-populate-deep": "^0.1.2"
   },
   "author": {
     "name": "A Strapi developer"

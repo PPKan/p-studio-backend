@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_localization_navbars",
+  "info": {
+    "displayName": "Navbar",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Pages": {
+      "displayName": "Pages",
+      "type": "component",
+      "repeatable": false,
+      "component": "navbar.pages"
+    }
+  }
+}

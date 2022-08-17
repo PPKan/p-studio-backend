@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "jps",
+  "info": {
+    "singularName": "jp",
+    "pluralName": "jps",
+    "displayName": "JP",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Navbar": {
+      "type": "component",
+      "repeatable": false,
+      "component": "localization.navbar"
+    }
+  }
+}

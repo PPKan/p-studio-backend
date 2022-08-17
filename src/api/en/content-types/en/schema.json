@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "ens",
+  "info": {
+    "singularName": "en",
+    "pluralName": "ens",
+    "displayName": "EN",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Navbar": {
+      "type": "component",
+      "repeatable": false,
+      "component": "localization.navbar"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_navbar_pages",
+  "info": {
+    "displayName": "Pages",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "About": {
+      "type": "string"
+    },
+    "Works": {
+      "type": "string"
+    },
+    "Services": {
+      "type": "string"
+    },
+    "Contact": {
+      "type": "string"
+    },
+    "Info": {
+      "type": "string"
+    }
+  }
+}
