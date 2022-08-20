@@ -1,0 +1,54 @@
+{
+  "collectionName": "components_front_fronts",
+  "info": {
+    "displayName": "Front"
+  },
+  "options": {},
+  "attributes": {
+    "frontShowMainTitle": {
+      "type": "string"
+    },
+    "frontShowSubTitle": {
+      "type": "string"
+    },
+    "frontServicesMainTitle": {
+      "type": "string"
+    },
+    "frontServiceSubTitle": {
+      "type": "string"
+    },
+    "frontServicesBox1Title": {
+      "type": "string"
+    },
+    "frontServicesBox2Title": {
+      "type": "string"
+    },
+    "frontServicesBox3Title": {
+      "type": "string"
+    },
+    "frontServicesBox1Text": {
+      "type": "string"
+    },
+    "frontServicesBox2Text": {
+      "type": "string"
+    },
+    "frontServicesBox3Text": {
+      "type": "string"
+    },
+    "frontWorksMainTitle": {
+      "type": "string"
+    },
+    "frontWorksSubTitle": {
+      "type": "string"
+    },
+    "frontInfoMainTitle": {
+      "type": "string"
+    },
+    "frontInfoSubTitle": {
+      "type": "string"
+    },
+    "frontInfoReadMore": {
+      "type": "string"
+    }
+  }
+}

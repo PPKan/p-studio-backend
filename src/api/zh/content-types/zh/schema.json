@@ -1,11 +1,10 @@
 {
   "kind": "collectionType",
-  "collectionName": "ens",
+  "collectionName": "zhs",
   "info": {
-    "singularName": "en",
-    "pluralName": "ens",
-    "displayName": "EN",
-    "description": ""
+    "singularName": "zh",
+    "pluralName": "zhs",
+    "displayName": "zh"
   },
   "options": {
     "draftAndPublish": true

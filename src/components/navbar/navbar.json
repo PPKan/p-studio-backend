@@ -1,8 +1,7 @@
 {
-  "collectionName": "components_navbar_pages",
+  "collectionName": "components_navbar_navbars",
   "info": {
-    "displayName": "Pages",
-    "description": ""
+    "displayName": "navbar"
   },
   "options": {},
   "attributes": {

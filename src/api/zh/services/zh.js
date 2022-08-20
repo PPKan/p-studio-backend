@@ -1,9 +1,9 @@
 'use strict';
 
 /**
- * content service.
+ * zh service.
  */
 
 const { createCoreService } = require('@strapi/strapi').factories;
 
-module.exports = createCoreService('api::content.content');
+module.exports = createCoreService('api::zh.zh');
